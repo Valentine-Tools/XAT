@@ -38,16 +38,6 @@
                             <TextBlock>Discord</TextBlock>
                         </StackPanel>
                     </Button>
-
-                    <Separator Opacity="0" Height="10" />
-
-                    <Button Click="KoFi_Click">
-                        <StackPanel Orientation="Horizontal">
-                            <materialDesign:PackIcon Kind="Dollar" Margin="-8" VerticalAlignment="Center" />
-                            <Separator Opacity="0" Width="10" />
-                            <TextBlock>Ko-Fi</TextBlock>
-                        </StackPanel>
-                    </Button>
                 </StackPanel>
 
             </GroupBox>
