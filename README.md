@@ -1,6 +1,3 @@
-# OBSOLETE
-XAT is now obsolete, please see [VFX Editor](https://github.com/0ceal0t/Dalamud-VFXEditor) for animations.
-
 ## XAT - The XIV Animation Toolkit
 
 XAT (or, more formally titled, The XIV Animation Toolkit) is a standalone tool for manipulating animations and skeletons in Final Fantasy XIV. It provides various techniques to export, import, compress and bind animations to and from a variety of formats.
@@ -16,9 +13,9 @@ XAT aims to combine and improve on the previous disparate efforts for XIV animat
 The project is still a very early Alpha and documentation is still being worked on.  Join us on [Discord](https://discord.gg/KvGJCCnG8t).
 
 ## Components
-* [XAT Standalone](https://github.com/AsgardXIV/XAT/releases/latest/download/XAT.zip) (for creating animations etc). 
-* [Blender Addon](https://github.com/AsgardXIV/XAT/releases/latest/download/XAT-Blender-Addon.zip)
-* Dalamud Repo `https://raw.githubusercontent.com/AsgardXIV/XAT/main/repo.json`
+* [XAT Standalone](https://github.com/Valentine-Tools/XAT/releases/latest/download/XAT.zip) (for creating animations etc). 
+* [Blender Addon](https://github.com/Valentine-Tools/XAT/releases/latest/download/XAT-Blender-Addon.zip)
+* Dalamud Repo `https://raw.githubusercontent.com/Valentine-Tools/XAT/main/repo.json`
 
 ## Contributing
 XAT is entirely open source and contributions are welcome.
@@ -26,6 +23,7 @@ XAT is entirely open source and contributions are welcome.
 ## Acknowledgments
 This project builds on the work of previous research and tools built for XIV. A huge thank you is due to the following projects for making XAT possible.
 
+* [AsgardXIV](https://github.com/AsgardXIV) - Original Creator of XAT
 * [AnimAssist](https://github.com/lmcintyre/AnimAssist)
 * [FBX2Havok](https://github.com/lmcintyre/fbx2havok)
 * [MultiAssist](https://github.com/ilmheg/MultiAssist/)

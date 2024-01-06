@@ -1,12 +1,12 @@
 [
     {
-        "Author": "Asgard",
+        "Author": "Kisa Valentine",
         "Name": "XAT",
         "Description": "Create and edit animations and cutscenes",
         "InternalName": "XAT.Plugin",
         "AssemblyVersion": "2023.10.3.2301",
         "TestingAssemblyVersion": "2023.10.3.2301",
-        "RepoUrl": "https://github.com/AsgardXIV/XAT",
+        "RepoUrl": "https://github.com/Valentine-Tools/XAT",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
         "IsHide": "False",
@@ -16,9 +16,9 @@
         "LoadPriority": 69420,
         "LoadRequiredState": 2,
         "LoadSync": true,
-        "DownloadLinkInstall": "https://github.com/AsgardXIV/XAT/releases/download/v2023.10.3.2301/XAT-Dalamud-Plugin.zip",
-        "DownloadLinkTesting": "https://github.com/AsgardXIV/XAT/releases/download/v2023.10.3.2301/XAT-Dalamud-Plugin.zip",
-        "DownloadLinkUpdate": "https://github.com/AsgardXIV/XAT/releases/download/v2023.10.3.2301/XAT-Dalamud-Plugin.zip",
-        "IconUrl": "https://raw.githubusercontent.com/AsgardXIV/XAT/master/Resources/Images/XATIcon.png"
+        "DownloadLinkInstall": "https://github.com/Valentine-Tools/XAT/releases/download/v2023.10.3.2301/XAT-Dalamud-Plugin.zip",
+        "DownloadLinkTesting": "https://github.com/Valentine-Tools/XAT/releases/download/v2023.10.3.2301/XAT-Dalamud-Plugin.zip",
+        "DownloadLinkUpdate": "https://github.com/Valentine-Tools/XAT/releases/download/v2023.10.3.2301/XAT-Dalamud-Plugin.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Valentine-Tools/XAT/master/Resources/Images/XATIcon.png"
     }
 ]
